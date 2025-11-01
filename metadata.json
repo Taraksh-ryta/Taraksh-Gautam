@@ -1,0 +1,7 @@
+{
+  "name": "Ryt Chatbot",
+  "description": "A friendly and conversational AI assistant powered by Gemini. This AI is created by Taraksh Gautam. Ask questions, upload images, and get insightful, comprehensive answers in a natural style.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
